@@ -13,7 +13,7 @@ const cText = (text, color) => {
 };
 console.log(cText("###################################", YELLOW));
 console.log(cText("  Hello!", GREEN));
-console.log(cText("  I'm K0ola, some call me firstname!", YELLOW));
+console.log(cText("  I'm K0ola, some call me K0la !", YELLOW));
 console.log(cText(`  GitHub: https://github.com/K0ola`, WHITE));
 console.log(cText("  Have a great life!", GREEN));
 console.log(cText("###################################", YELLOW));
